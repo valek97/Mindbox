@@ -1,0 +1,5 @@
+D:\Repository\Mindbox\Area_dll\Area\bin\Release\Area.dll
+D:\Repository\Mindbox\Area_dll\Area\bin\Release\Area.pdb
+D:\Repository\Mindbox\Area_dll\Area\obj\Release\Area.csproj.CoreCompileInputs.cache
+D:\Repository\Mindbox\Area_dll\Area\obj\Release\Area.dll
+D:\Repository\Mindbox\Area_dll\Area\obj\Release\Area.pdb

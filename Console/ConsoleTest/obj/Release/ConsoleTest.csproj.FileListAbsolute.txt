@@ -1,0 +1,10 @@
+D:\Repository\Mindbox\Console\ConsoleTest\bin\Release\ConsoleTest.exe.config
+D:\Repository\Mindbox\Console\ConsoleTest\bin\Release\ConsoleTest.exe
+D:\Repository\Mindbox\Console\ConsoleTest\bin\Release\ConsoleTest.pdb
+D:\Repository\Mindbox\Console\ConsoleTest\bin\Release\Area.dll
+D:\Repository\Mindbox\Console\ConsoleTest\bin\Release\Area.pdb
+D:\Repository\Mindbox\Console\ConsoleTest\obj\Release\ConsoleTest.csprojAssemblyReference.cache
+D:\Repository\Mindbox\Console\ConsoleTest\obj\Release\ConsoleTest.csproj.CoreCompileInputs.cache
+D:\Repository\Mindbox\Console\ConsoleTest\obj\Release\ConsoleTest.csproj.CopyComplete
+D:\Repository\Mindbox\Console\ConsoleTest\obj\Release\ConsoleTest.exe
+D:\Repository\Mindbox\Console\ConsoleTest\obj\Release\ConsoleTest.pdb
